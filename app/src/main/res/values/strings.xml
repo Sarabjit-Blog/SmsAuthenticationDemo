@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmsAuthenticationDemo</string>
+    <string name="following_is_your_sms_token">Following is your SMS token :</string>
+    <string name="token_result_activity">Token Result Activity</string>
+</resources>
